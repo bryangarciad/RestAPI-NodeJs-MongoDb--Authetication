@@ -49,7 +49,7 @@ router.route('/confirmPermission').post((req, res)=>{
     const token = req.body.token;
     jwt.verify(token, process.env.SECRETKEY, (err, decoded) => {      
         if (err) {
-          res.json({message: 'Token inválida' });    
+          res.json({message: 'Invalid Token' });    
         } else {   
           res.json({message: "Access Granted"});
         }
