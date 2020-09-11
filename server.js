@@ -10,8 +10,8 @@ const mainApp= express();
 const port = process.env.PORT || 5000;
 
 //Applying midleware
-mainApp.use(cors());
-mainApp.use(express.json());
+mainApp.use(cors()); //cross origin resource sharing middleware
+mainApp.use(express.json()); //json middleware to parse incoming requests with json payloads
 
 mongoose.connect(process.env.ATLASURI, {
     useNewUrlParser: true,
