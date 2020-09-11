@@ -7,4 +7,4 @@
  # Modules that i used
  |dotenv|Express|mongoose|JWT|CORS|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" width="100">| <img src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" width="100"> <br/> <img src="https://miro.medium.com/max/1214/1*rchG6FrxrvUsgxnfgoq8ow.png" width="100"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeVUTiRDRTZhYP5jOb6VQW6p0lA5U0lWDcZA&usqp=CAU" width="100"> |<img src="https://antoniodelamatalopez.files.wordpress.com/2018/07/angular_nginx_cors.png"> |
+|<img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" width="100">| <img src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" width="100"> <br/> | <img src="https://miro.medium.com/max/1214/1*rchG6FrxrvUsgxnfgoq8ow.png" width="100"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeVUTiRDRTZhYP5jOb6VQW6p0lA5U0lWDcZA&usqp=CAU" width="100"> |<img src="https://antoniodelamatalopez.files.wordpress.com/2018/07/angular_nginx_cors.png" width="100"> |
